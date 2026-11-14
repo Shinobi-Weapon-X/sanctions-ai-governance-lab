@@ -1,0 +1,181 @@
+customer_id,customer_name,scenario,ground_truth_match,ground_truth_watchlist_id,watchlist_id,selected_score,alert,correct_record
+SIM-CU-00001,Taren Veloran,simulated_true_exact,1,SIM-WL-0001,SIM-WL-0001,1.0,1,1
+SIM-CU-00002,T. Veloran,simulated_true_variant,1,SIM-WL-0001,SIM-WL-0001,1.0,1,1
+SIM-CU-00003,Taern Veloran,near_name_different_identity,0,,SIM-WL-0001,0.923076923076923,1,0
+SIM-CU-00004,Taren Veloran,same_name_conflicting_identifiers,0,,SIM-WL-0001,1.0,1,0
+SIM-CU-00021,Vessa Halvren,simulated_true_exact,1,SIM-WL-0006,SIM-WL-0006,1.0,1,1
+SIM-CU-00022,Vessa Halvren,simulated_true_variant,1,SIM-WL-0006,SIM-WL-0006,1.0,1,1
+SIM-CU-00023,Vessa Halvren,near_name_different_identity,0,,SIM-WL-0006,1.0,1,0
+SIM-CU-00024,Vessa Halvren,same_name_conflicting_identifiers,0,,SIM-WL-0006,1.0,1,0
+SIM-CU-00065,Norven Mavrel,simulated_true_exact,1,SIM-WL-0017,SIM-WL-0017,1.0,1,1
+SIM-CU-00066,N. Mavrel,simulated_true_variant,1,SIM-WL-0017,SIM-WL-0017,1.0,1,1
+SIM-CU-00067,Novren Mavrel,near_name_different_identity,0,,SIM-WL-0017,0.923076923076923,1,0
+SIM-CU-00068,Norven Mavrel,same_name_conflicting_identifiers,0,,SIM-WL-0017,1.0,1,0
+SIM-CU-00089,Kaelen Taverin,simulated_true_exact,1,SIM-WL-0023,SIM-WL-0023,1.0,1,1
+SIM-CU-00090,K. Taverin,simulated_true_variant,1,SIM-WL-0023,SIM-WL-0023,1.0,1,1
+SIM-CU-00091,Kaleen Taverin,near_name_different_identity,0,,SIM-WL-0023,0.9285714285714286,1,0
+SIM-CU-00092,Kaelen Taverin,same_name_conflicting_identifiers,0,,SIM-WL-0023,1.0,1,0
+SIM-CU-00165,Zarela Keldran,simulated_true_exact,1,SIM-WL-0042,SIM-WL-0042,1.0,1,1
+SIM-CU-00166,Zaerla Keldran,simulated_true_variant,1,SIM-WL-0042,SIM-WL-0042,0.9285714285714286,1,1
+SIM-CU-00167,Zaerla Keldran,near_name_different_identity,0,,SIM-WL-0042,0.9285714285714286,1,0
+SIM-CU-00168,Zarela Keldran,same_name_conflicting_identifiers,0,,SIM-WL-0042,1.0,1,0
+SIM-CU-00173,Thalia Mavrel,simulated_true_exact,1,SIM-WL-0044,SIM-WL-0044,1.0,1,1
+SIM-CU-00174,Thlaia Mavrel,simulated_true_variant,1,SIM-WL-0044,SIM-WL-0044,0.923076923076923,1,1
+SIM-CU-00175,Thlaia Mavrel,near_name_different_identity,0,,SIM-WL-0044,0.923076923076923,1,0
+SIM-CU-00176,Thalia Mavrel,same_name_conflicting_identifiers,0,,SIM-WL-0044,1.0,1,0
+SIM-CU-00193,Taren Virelda,simulated_true_exact,1,SIM-WL-0049,SIM-WL-0049,1.0,1,1
+SIM-CU-00194,T. Virelda,simulated_true_variant,1,SIM-WL-0049,SIM-WL-0049,1.0,1,1
+SIM-CU-00195,Taern Virelda,near_name_different_identity,0,,SIM-WL-0049,0.923076923076923,1,0
+SIM-CU-00196,Taren Virelda,same_name_conflicting_identifiers,0,,SIM-WL-0049,1.0,1,0
+SIM-CU-00209,Kiran Halvren,simulated_true_exact,1,SIM-WL-0053,SIM-WL-0053,1.0,1,1
+SIM-CU-00210,K. Halvren,simulated_true_variant,1,SIM-WL-0053,SIM-WL-0047,1.0,1,0
+SIM-CU-00211,Kiarn Halvren,near_name_different_identity,0,,SIM-WL-0053,0.923076923076923,1,0
+SIM-CU-00212,Kiran Halvren,same_name_conflicting_identifiers,0,,SIM-WL-0053,1.0,1,0
+SIM-CU-00213,Vessa Navorin,simulated_true_exact,1,SIM-WL-0054,SIM-WL-0054,1.0,1,1
+SIM-CU-00214,Vessa Navorin,simulated_true_variant,1,SIM-WL-0054,SIM-WL-0054,1.0,1,1
+SIM-CU-00215,Vessa Navorin,near_name_different_identity,0,,SIM-WL-0054,1.0,1,0
+SIM-CU-00216,Vessa Navorin,same_name_conflicting_identifiers,0,,SIM-WL-0054,1.0,1,0
+SIM-CU-00229,Dalen Daryen,simulated_true_exact,1,SIM-WL-0058,SIM-WL-0058,1.0,1,1
+SIM-CU-00230,Daeln Daryen,simulated_true_variant,1,SIM-WL-0058,SIM-WL-0058,0.9166666666666665,1,1
+SIM-CU-00231,Daeln Daryen,near_name_different_identity,0,,SIM-WL-0058,0.9166666666666665,1,0
+SIM-CU-00232,Dalen Daryen,same_name_conflicting_identifiers,0,,SIM-WL-0058,1.0,1,0
+SIM-CU-00233,Sorin Sorellan,simulated_true_exact,1,SIM-WL-0059,SIM-WL-0059,1.0,1,1
+SIM-CU-00234,S. Sorellan,simulated_true_variant,1,SIM-WL-0059,SIM-WL-0052,1.0,1,0
+SIM-CU-00235,Soirn Sorellan,near_name_different_identity,0,,SIM-WL-0059,0.9285714285714286,1,0
+SIM-CU-00236,Sorin Sorellan,same_name_conflicting_identifiers,0,,SIM-WL-0059,1.0,1,0
+SIM-CU-00237,Kavina Halvren,simulated_true_exact,1,SIM-WL-0060,SIM-WL-0060,1.0,1,1
+SIM-CU-00238,Kaivna Halvren,simulated_true_variant,1,SIM-WL-0060,SIM-WL-0060,0.9285714285714286,1,1
+SIM-CU-00239,Kaivna Halvren,near_name_different_identity,0,,SIM-WL-0060,0.9285714285714286,1,0
+SIM-CU-00240,Kavina Halvren,same_name_conflicting_identifiers,0,,SIM-WL-0060,1.0,1,0
+SIM-CU-00289,Kestralyn Meridian Corporation,simulated_true_exact,1,SIM-WL-0073,SIM-WL-0073,1.0,1,1
+SIM-CU-00290,Kestralyn Meridian Corp,simulated_true_variant,1,SIM-WL-0073,SIM-WL-0073,1.0,1,1
+SIM-CU-00291,Ketsralyn Meridian Corporation,near_name_different_identity,0,,SIM-WL-0073,0.9666666666666667,1,0
+SIM-CU-00292,Kestralyn Meridian Corporation,same_name_conflicting_identifiers,0,,SIM-WL-0073,1.0,1,0
+SIM-CU-00305,Fenlora Meridian Corporation,simulated_true_exact,1,SIM-WL-0077,SIM-WL-0077,1.0,1,1
+SIM-CU-00306,Fenlora Meridian Corp,simulated_true_variant,1,SIM-WL-0077,SIM-WL-0077,1.0,1,1
+SIM-CU-00307,Felnora Meridian Corporation,near_name_different_identity,0,,SIM-WL-0077,0.9642857142857143,1,0
+SIM-CU-00308,Fenlora Meridian Corporation,same_name_conflicting_identifiers,0,,SIM-WL-0077,1.0,1,0
+SIM-CU-00321,Talvex Maritime Corporation,simulated_true_exact,1,SIM-WL-0081,SIM-WL-0081,1.0,1,1
+SIM-CU-00322,Talvex Maritime Corp,simulated_true_variant,1,SIM-WL-0081,SIM-WL-0081,1.0,1,1
+SIM-CU-00323,Tavlex Maritime Corporation,near_name_different_identity,0,,SIM-WL-0081,0.962962962962963,1,0
+SIM-CU-00324,Talvex Maritime Corporation,same_name_conflicting_identifiers,0,,SIM-WL-0081,1.0,1,0
+SIM-CU-00333,Mavora Maritime Limited,simulated_true_exact,1,SIM-WL-0084,SIM-WL-0084,1.0,1,1
+SIM-CU-00334,Maovra Maritime Limited,simulated_true_variant,1,SIM-WL-0084,SIM-WL-0084,0.9565217391304348,1,1
+SIM-CU-00335,Maovra Maritime Limited,near_name_different_identity,0,,SIM-WL-0084,0.9565217391304348,1,0
+SIM-CU-00336,Mavora Maritime Limited,same_name_conflicting_identifiers,0,,SIM-WL-0084,1.0,1,0
+SIM-CU-00349,Solvanta Maritime Limited,simulated_true_exact,1,SIM-WL-0088,SIM-WL-0088,1.0,1,1
+SIM-CU-00350,Sovlanta Maritime Limited,simulated_true_variant,1,SIM-WL-0088,SIM-WL-0088,0.96,1,1
+SIM-CU-00351,Sovlanta Maritime Limited,near_name_different_identity,0,,SIM-WL-0088,0.96,1,0
+SIM-CU-00352,Solvanta Maritime Limited,same_name_conflicting_identifiers,0,,SIM-WL-0088,1.0,1,0
+SIM-CU-00357,Delmara Maritime Limited,simulated_true_exact,1,SIM-WL-0090,SIM-WL-0090,1.0,1,1
+SIM-CU-00358,Demlara Maritime Limited,simulated_true_variant,1,SIM-WL-0090,SIM-WL-0090,0.9583333333333335,1,1
+SIM-CU-00359,Demlara Maritime Limited,near_name_different_identity,0,,SIM-WL-0090,0.9583333333333335,1,0
+SIM-CU-00360,Delmara Maritime Limited,same_name_conflicting_identifiers,0,,SIM-WL-0090,1.0,1,0
+SIM-CU-00361,Mavora Cargo Partners,unrelated_background,0,,SIM-WL-0084,0.55,0,0
+SIM-CU-00366,Fenlora Commodities Partners,unrelated_background,0,,SIM-WL-0089,0.6428571428571428,0,0
+SIM-CU-00377,Orena Keldrana,unrelated_background,0,,SIM-WL-0062,0.8461538461538461,0,0
+SIM-CU-00383,Vessa Baralena,unrelated_background,0,,SIM-WL-0006,0.7407407407407408,0,0
+SIM-CU-00402,Taren Savelina,unrelated_background,0,,SIM-WL-0001,0.7407407407407408,0,0
+SIM-CU-00404,Aven Delorina,unrelated_background,0,,SIM-WL-0027,0.72,0,0
+SIM-CU-00409,Narek Daryena,unrelated_background,0,,SIM-WL-0045,0.88,0,0
+SIM-CU-00413,Kavina Keldrana,unrelated_background,0,,SIM-WL-0062,0.7407407407407408,0,0
+SIM-CU-00414,Renel Vireldaa,unrelated_background,0,,SIM-WL-0049,0.814814814814815,0,0
+SIM-CU-00418,Norven Nimarela,unrelated_background,0,,SIM-WL-0017,0.8571428571428572,0,0
+SIM-CU-00419,Zarela Baralena,unrelated_background,0,,SIM-WL-0018,0.7857142857142857,0,0
+SIM-CU-00420,Emirin Savelina,unrelated_background,0,,SIM-WL-0043,0.8275862068965517,0,0
+SIM-CU-00433,Narek Orvellana,unrelated_background,0,,SIM-WL-0032,0.896551724137931,0,0
+SIM-CU-00437,Kavina Baralena,unrelated_background,0,,SIM-WL-0060,0.7586206896551724,0,0
+SIM-CU-00441,Novera Cargo Partners,unrelated_background,0,,SIM-WL-0080,0.55,0,0
+SIM-CU-00444,Emirin Mavrela,unrelated_background,0,,SIM-WL-0019,0.7586206896551724,0,0
+SIM-CU-00448,Kaelen Navorina,unrelated_background,0,,SIM-WL-0034,0.8571428571428572,0,0
+SIM-CU-00450,Taren Vireldaa,unrelated_background,0,,SIM-WL-0049,0.962962962962963,1,0
+SIM-CU-00451,Delmara Cargo Partners,unrelated_background,0,,SIM-WL-0090,0.5714285714285714,0,0
+SIM-CU-00456,Cordalis Commodities Partners,unrelated_background,0,,SIM-WL-0083,0.6551724137931035,0,0
+SIM-CU-00467,Zarela Keldrana,unrelated_background,0,,SIM-WL-0042,0.9655172413793103,1,0
+SIM-CU-00473,Orena Baralena,unrelated_background,0,,SIM-WL-0024,0.6923076923076923,0,0
+SIM-CU-00492,Emirin Savelina,unrelated_background,0,,SIM-WL-0043,0.8275862068965517,0,0
+SIM-CU-00494,Varek Delorina,unrelated_background,0,,SIM-WL-0008,0.7407407407407408,0,0
+SIM-CU-00499,Liora Daryena,unrelated_background,0,,SIM-WL-0026,0.7692307692307692,0,0
+SIM-CU-00503,Vessa Keldrana,unrelated_background,0,,SIM-WL-0028,0.782608695652174,0,0
+SIM-CU-00504,Mariel Vireldaa,unrelated_background,0,,SIM-WL-0049,0.7857142857142857,0,0
+SIM-CU-00508,Sorin Nimarela,unrelated_background,0,,SIM-WL-0059,0.7142857142857143,0,0
+SIM-CU-00509,Kavina Baralena,unrelated_background,0,,SIM-WL-0060,0.7586206896551724,0,0
+SIM-CU-00510,Renel Savelina,unrelated_background,0,,SIM-WL-0037,0.7692307692307692,0,0
+SIM-CU-00523,Liora Orvellana,unrelated_background,0,,SIM-WL-0005,0.7586206896551724,0,0
+SIM-CU-00527,Vessa Baralena,unrelated_background,0,,SIM-WL-0006,0.7407407407407408,0,0
+SIM-CU-00531,Virello Cargo Partners,unrelated_background,0,,SIM-WL-0086,0.5714285714285714,0,0
+SIM-CU-00534,Renel Mavrela,unrelated_background,0,,SIM-WL-0037,0.96,1,0
+SIM-CU-00538,Norven Navorina,unrelated_background,0,,SIM-WL-0041,0.9655172413793103,1,0
+SIM-CU-00540,Emirin Vireldaa,unrelated_background,0,,SIM-WL-0056,0.75,0,0
+SIM-CU-00541,Mavora Cargo Partners,unrelated_background,0,,SIM-WL-0084,0.55,0,0
+SIM-CU-00546,Fenlora Commodities Partners,unrelated_background,0,,SIM-WL-0089,0.6428571428571428,0,0
+SIM-CU-00557,Kavina Keldrana,unrelated_background,0,,SIM-WL-0062,0.7407407407407408,0,0
+SIM-CU-00563,Zarela Baralena,unrelated_background,0,,SIM-WL-0018,0.7857142857142857,0,0
+SIM-CU-00582,Renel Savelina,unrelated_background,0,,SIM-WL-0037,0.7692307692307692,0,0
+SIM-CU-00584,Avira Delorina,unrelated_background,0,,SIM-WL-0015,0.814814814814815,0,0
+SIM-CU-00589,Thalia Daryena,unrelated_background,0,,SIM-WL-0020,0.7857142857142857,0,0
+SIM-CU-00593,Orena Keldrana,unrelated_background,0,,SIM-WL-0062,0.8461538461538461,0,0
+SIM-CU-00594,Taren Vireldaa,unrelated_background,0,,SIM-WL-0049,0.962962962962963,1,0
+SIM-CU-00598,Kiran Nimarela,unrelated_background,0,,SIM-WL-0005,0.7142857142857143,0,0
+SIM-CU-00599,Vessa Baralena,unrelated_background,0,,SIM-WL-0006,0.7407407407407408,0,0
+SIM-CU-00600,Mariel Savelina,unrelated_background,0,,SIM-WL-0007,0.7586206896551724,0,0
+SIM-CU-00613,Thalia Orvellana,unrelated_background,0,,SIM-WL-0039,0.7333333333333334,0,0
+SIM-CU-00617,Orena Baralena,unrelated_background,0,,SIM-WL-0024,0.6923076923076923,0,0
+SIM-CU-00621,Novera Cargo Partners,unrelated_background,0,,SIM-WL-0080,0.55,0,0
+SIM-CU-00624,Mariel Mavrela,unrelated_background,0,,SIM-WL-0037,0.7692307692307692,0,0
+SIM-CU-00628,Sorin Navorina,unrelated_background,0,,SIM-WL-0014,0.923076923076923,1,0
+SIM-CU-00630,Renel Vireldaa,unrelated_background,0,,SIM-WL-0049,0.814814814814815,0,0
+SIM-CU-00631,Delmara Cargo Partners,unrelated_background,0,,SIM-WL-0090,0.5714285714285714,0,0
+SIM-CU-00636,Cordalis Commodities Partners,unrelated_background,0,,SIM-WL-0083,0.6551724137931035,0,0
+SIM-CU-00647,Vessa Keldrana,unrelated_background,0,,SIM-WL-0028,0.782608695652174,0,0
+SIM-CU-00653,Kavina Baralena,unrelated_background,0,,SIM-WL-0060,0.7586206896551724,0,0
+SIM-CU-00672,Mariel Savelina,unrelated_background,0,,SIM-WL-0007,0.7586206896551724,0,0
+SIM-CU-00674,Alira Delorina,unrelated_background,0,,SIM-WL-0009,0.7407407407407408,0,0
+SIM-CU-00679,Orin Daryena,unrelated_background,0,,SIM-WL-0038,0.9565217391304348,1,0
+SIM-CU-00683,Zarela Keldrana,unrelated_background,0,,SIM-WL-0042,0.9655172413793103,1,0
+SIM-CU-00684,Emirin Vireldaa,unrelated_background,0,,SIM-WL-0056,0.75,0,0
+SIM-CU-00688,Kaelen Nimarela,unrelated_background,0,,SIM-WL-0010,0.7407407407407408,0,0
+SIM-CU-00689,Orena Baralena,unrelated_background,0,,SIM-WL-0024,0.6923076923076923,0,0
+SIM-CU-00690,Taren Savelina,unrelated_background,0,,SIM-WL-0001,0.7407407407407408,0,0
+SIM-CU-00703,Orin Orvellana,unrelated_background,0,,SIM-WL-0059,0.8571428571428572,0,0
+SIM-CU-00707,Zarela Baralena,unrelated_background,0,,SIM-WL-0018,0.7857142857142857,0,0
+SIM-CU-00711,Virello Cargo Partners,unrelated_background,0,,SIM-WL-0086,0.5714285714285714,0,0
+SIM-CU-00714,Taren Mavrela,unrelated_background,0,,SIM-WL-0049,0.8461538461538461,0,0
+SIM-CU-00718,Kiran Navorina,unrelated_background,0,,SIM-WL-0029,0.814814814814815,0,0
+SIM-CU-00720,Mariel Vireldaa,unrelated_background,0,,SIM-WL-0049,0.7857142857142857,0,0
+SIM-CU-00721,Mavora Cargo Partners,unrelated_background,0,,SIM-WL-0084,0.55,0,0
+SIM-CU-00726,Fenlora Commodities Partners,unrelated_background,0,,SIM-WL-0089,0.6428571428571428,0,0
+SIM-CU-00737,Orena Keldrana,unrelated_background,0,,SIM-WL-0062,0.8461538461538461,0,0
+SIM-CU-00743,Vessa Baralena,unrelated_background,0,,SIM-WL-0006,0.7407407407407408,0,0
+SIM-CU-00762,Taren Savelina,unrelated_background,0,,SIM-WL-0001,0.7407407407407408,0,0
+SIM-CU-00764,Aven Delorina,unrelated_background,0,,SIM-WL-0027,0.72,0,0
+SIM-CU-00769,Narek Daryena,unrelated_background,0,,SIM-WL-0045,0.88,0,0
+SIM-CU-00773,Kavina Keldrana,unrelated_background,0,,SIM-WL-0062,0.7407407407407408,0,0
+SIM-CU-00774,Renel Vireldaa,unrelated_background,0,,SIM-WL-0049,0.814814814814815,0,0
+SIM-CU-00778,Norven Nimarela,unrelated_background,0,,SIM-WL-0017,0.8571428571428572,0,0
+SIM-CU-00779,Zarela Baralena,unrelated_background,0,,SIM-WL-0018,0.7857142857142857,0,0
+SIM-CU-00780,Emirin Savelina,unrelated_background,0,,SIM-WL-0043,0.8275862068965517,0,0
+SIM-CU-00793,Narek Orvellana,unrelated_background,0,,SIM-WL-0032,0.896551724137931,0,0
+SIM-CU-00797,Kavina Baralena,unrelated_background,0,,SIM-WL-0060,0.7586206896551724,0,0
+SIM-CU-00801,Novera Cargo Partners,unrelated_background,0,,SIM-WL-0080,0.55,0,0
+SIM-CU-00804,Emirin Mavrela,unrelated_background,0,,SIM-WL-0019,0.7586206896551724,0,0
+SIM-CU-00808,Kaelen Navorina,unrelated_background,0,,SIM-WL-0034,0.8571428571428572,0,0
+SIM-CU-00810,Taren Vireldaa,unrelated_background,0,,SIM-WL-0049,0.962962962962963,1,0
+SIM-CU-00811,Delmara Cargo Partners,unrelated_background,0,,SIM-WL-0090,0.5714285714285714,0,0
+SIM-CU-00816,Cordalis Commodities Partners,unrelated_background,0,,SIM-WL-0083,0.6551724137931035,0,0
+SIM-CU-00827,Zarela Keldrana,unrelated_background,0,,SIM-WL-0042,0.9655172413793103,1,0
+SIM-CU-00833,Orena Baralena,unrelated_background,0,,SIM-WL-0024,0.6923076923076923,0,0
+SIM-CU-00852,Emirin Savelina,unrelated_background,0,,SIM-WL-0043,0.8275862068965517,0,0
+SIM-CU-00854,Varek Delorina,unrelated_background,0,,SIM-WL-0008,0.7407407407407408,0,0
+SIM-CU-00859,Liora Daryena,unrelated_background,0,,SIM-WL-0026,0.7692307692307692,0,0
+SIM-CU-00863,Vessa Keldrana,unrelated_background,0,,SIM-WL-0028,0.782608695652174,0,0
+SIM-CU-00864,Mariel Vireldaa,unrelated_background,0,,SIM-WL-0049,0.7857142857142857,0,0
+SIM-CU-00868,Sorin Nimarela,unrelated_background,0,,SIM-WL-0059,0.7142857142857143,0,0
+SIM-CU-00869,Kavina Baralena,unrelated_background,0,,SIM-WL-0060,0.7586206896551724,0,0
+SIM-CU-00870,Renel Savelina,unrelated_background,0,,SIM-WL-0037,0.7692307692307692,0,0
+SIM-CU-00883,Liora Orvellana,unrelated_background,0,,SIM-WL-0005,0.7586206896551724,0,0
+SIM-CU-00887,Vessa Baralena,unrelated_background,0,,SIM-WL-0006,0.7407407407407408,0,0
+SIM-CU-00891,Virello Cargo Partners,unrelated_background,0,,SIM-WL-0086,0.5714285714285714,0,0
+SIM-CU-00894,Renel Mavrela,unrelated_background,0,,SIM-WL-0037,0.96,1,0
+SIM-CU-00898,Norven Navorina,unrelated_background,0,,SIM-WL-0041,0.9655172413793103,1,0
+SIM-CU-00900,Emirin Vireldaa,unrelated_background,0,,SIM-WL-0056,0.75,0,0

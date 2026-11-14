@@ -1,0 +1,15 @@
+{
+  "title": "Synthetic demonstration source manifest",
+  "provenance": "GENERATED FICTIONAL RECORDS; NOT OFAC, UN, UK OR ANY GOVERNMENT LIST",
+  "random_seed": 20261115,
+  "source_files_sha256": {
+    "fictional_watchlist.csv": "4e82a22badca4eae85fcdfdf7b6c1e29db6f2e2a3c1f00d0153b42421aab7fa2",
+    "fictional_customers.csv": "6efcfc663ae69c9d6f0c721fa14e9a615d48940e82db6cd4ae89b852257f5925"
+  },
+  "update_frequency": "Rebuild manually; no automated official list refresh",
+  "official_references_used_only_for_context": [
+    "https://ofac.treasury.gov/sanctions-list-service",
+    "https://main.un.org/securitycouncil/en/sanctions/un-sc-consolidated-list",
+    "https://www.gov.uk/government/publications/the-uk-sanctions-list"
+  ]
+}

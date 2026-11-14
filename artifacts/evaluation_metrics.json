@@ -1,0 +1,69 @@
+{
+  "dataset_type": "SYNTHETIC DEMONSTRATION - NO ACTUAL SANCTIONS LISTS OR REAL CUSTOMERS",
+  "seed": 20261115,
+  "watchlist_records": 90,
+  "customer_records": 900,
+  "synthetic_positive_customers": 180,
+  "candidate_pairs": 4500,
+  "split_customer_counts": {
+    "training": 540,
+    "validation": 180,
+    "test": 180
+  },
+  "split_group_counts": {
+    "training": 54,
+    "validation": 18,
+    "test": 18
+  },
+  "validation_selected_ml_threshold": 0.92,
+  "holdout": {
+    "exact": {
+      "precision": 0.5918367346938775,
+      "recall": 0.8055555555555556,
+      "f1": 0.6823529411764706,
+      "tp": 29,
+      "fp": 20,
+      "fn": 7,
+      "tn": 124,
+      "alerts": 49,
+      "wrong_record_alerts": 2,
+      "correct_record_alerts": 27,
+      "threshold": 1.0
+    },
+    "fuzzy": {
+      "precision": 0.42857142857142855,
+      "recall": 1.0,
+      "f1": 0.6,
+      "tp": 36,
+      "fp": 48,
+      "fn": 0,
+      "tn": 96,
+      "alerts": 84,
+      "wrong_record_alerts": 2,
+      "correct_record_alerts": 34,
+      "threshold": 0.9
+    },
+    "ml": {
+      "precision": 0.868421052631579,
+      "recall": 0.9166666666666666,
+      "f1": 0.8918918918918919,
+      "tp": 33,
+      "fp": 5,
+      "fn": 3,
+      "tn": 139,
+      "alerts": 38,
+      "wrong_record_alerts": 0,
+      "correct_record_alerts": 33,
+      "threshold": 0.92,
+      "roc_auc": 0.9939236111111112,
+      "average_precision": 0.974801272060648
+    }
+  },
+  "limitations": [
+    "Artificial labels and seeded fictional names; not independently verified real-world outcomes",
+    "Candidate retrieval restricted to top five name-similar reference records",
+    "Score is a synthetic-scenario ranking output, not a probability of sanctions designation",
+    "No official sanctions data ingestion, list update process, regulatory applicability assessment or legal decisioning",
+    "No independent bias, robustness, adversarial, drift or production security validation"
+  ]
+}
