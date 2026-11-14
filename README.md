@@ -4,6 +4,23 @@
 
 > **Important** This is an educational demonstration using **90 fictional watchlist records and 900 fictional customers**. The watchlist is **NOT** the OFAC SDN List, a UN sanctions list, the UK Sanctions List or an actual government designation database. The names, regimes, identifiers and ground-truth labels are invented. **Never use this project to screen real people or businesses or make sanctions decisions.**
 
+## 🚀 Launch Interactive Sanctions AI Governance Dashboard
+
+**[Click Here to Explore the Live Streamlit Application](https://sanctions-ai-governance-lab-llhkwsfe95w2v49p5cthvx.streamlit.app/)**
+
+Explore an educational screening laboratory examining identity resolution, name similarity, false positives, model validation and accountable human oversight.
+
+The interactive dashboard includes five sections.
+
+- **Overview** — Compare exact matching, fuzzy matching and explainable machine learning.
+- **Screen Identity** — Examine fictional customer identities, ranked candidate matches and contributing risk factors.
+- **Validation** — Review synthetic precision, recall, false positives and missed matches.
+- **Human Review** — Record simulated decisions, document investigation rationale and export audit records.
+- **AI Governance** — Examine accountability, model limitations, governance controls, evidence status and regulatory reference sources.
+
+**Important:** All customers and watchlist entries are fictional. The application does not use actual sanctions designation records and must not be used for real-world screening, legal determinations or regulatory decisions.
+
+
 **Project author** Adiputera Saadon  
 **Development transparency** The initial application, model pipeline and documentation were developed with AI coding and drafting assistance. The purpose is to understand and demonstrate AI governance through implementation, testing and documented limitations.
 
